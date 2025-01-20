@@ -13,9 +13,14 @@ This repository contains a simple React Native application that simulates a basi
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/afiqaimanafr/transaction-banking-app.git
-   
-cd transaction-banking-app 
+
+ ```bash   
+cd transaction-banking-app
+
+ ```bash
 npm install
+
+ ```bash
 npx expo start
 
 Scan the QR code displayed in the terminal to run the app.
