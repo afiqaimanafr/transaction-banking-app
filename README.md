@@ -12,4 +12,4 @@ This repository contains a simple React Native application that simulates a basi
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/afiqaimanafr/transaction-banking-app.git
