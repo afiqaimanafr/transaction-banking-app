@@ -14,17 +14,17 @@ This repository contains a simple React Native application that simulates a basi
    ```bash
    git clone https://github.com/afiqaimanafr/transaction-banking-app.git
 
-2, **Install dependencies:**
+2. **Install dependencies:**
     ```bash
     cd transaction-banking-app
+    npm install
 
-3.
+3. **Run the app:**
+    ```bash
+   npx expo start
 
-npm install
-
-npx expo start
-
-Scan the QR code displayed in the terminal to run the app.
+4. Open the Expo Go app on your device or emulator.
+   * Scan the QR code displayed in the terminal to run the app.
 
 **Technologies Used**
 * React Native
